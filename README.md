@@ -28,6 +28,8 @@ Cortex: Cortex is an analysis and automation engine that provides a set of analy
 How to set it up: Please follow these documentations and video for installation and configuration. When configuring please use your devices ip address': Thehive: https://docs.strangebee.com/thehive/download/ Cortex: https://docs.strangebee.com/cortex/installation-and-configuration/ Misp: https://www.youtube.com/watch?v=HwSx_a3qQr0&t=380s https://www.youtube.com/watch?v=4870zcDL9Ek&t=602s
 
 Network Setup:
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/4121d6f1-6f46-4d62-99cd-0bf983e4e4b6" />
+
 
 Our Network Setup Visualized
 
